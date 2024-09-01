@@ -12,6 +12,8 @@ struct Rectangle {
     var height: Double = 5
 }
 
+//learning task
+
 var rectangle = Rectangle()
 
 var rectangle1 = rectangle
